@@ -1,8 +1,10 @@
 🖌️ SketchFlow Whiteboard Application
+
 An interactive whiteboard application built using React, HTML, CSS, and JavaScript that allows users to draw, sketch, and design with various tools and features.
 
 
 🚀 Features
+
 Pencil & Marker: Draw with a smooth pencil or a bold marker.
 
 Shapes: Easily create shapes such as:
@@ -31,17 +33,12 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/harshyelwatkar/whiteboard-app.git
-
-cd whiteboard-app
-
-Install dependencies:
-
-npm install
-
-npm start
-
-Open the application in your browser at http://localhost:3000.
+- git clone https://github.com/harshyelwatkar/whiteboard-app.git
+- cd whiteboard-app
+- Install dependencies:
+- npm install
+- npm start
+- Open the application in your browser at http://localhost:3000.
 
 📸 Preview :
 
@@ -52,15 +49,12 @@ Open the application in your browser at http://localhost:3000.
 
 📋 Usage
 
-Drawing: Select the pencil or marker tool to begin drawing.
+- Drawing: Select the pencil or marker tool to begin drawing.
+- Shapes: Choose from the shapes menu to add geometric figures to your canvas.
+- Thickness & Color: Adjust the thickness and color to suit your drawing style.
+- Download: Once you’re done, simply click the download button to save your canvas.
 
-Shapes: Choose from the shapes menu to add geometric figures to your canvas.
-
-Thickness & Color: Adjust the thickness and color to suit your drawing style.
-
-Download: Once you’re done, simply click the download button to save your canvas.
-
-🤝 Contributing
+🤝 Contribution
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 📝 License
