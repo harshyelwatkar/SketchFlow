@@ -5,20 +5,20 @@ An interactive whiteboard application built using React, HTML, CSS, and JavaScri
 
 🚀 Features
 
-Pencil & Marker: Draw with a smooth pencil or a bold marker.
+- Pencil & Marker: Draw with a smooth pencil or a bold marker.
 
-Shapes: Easily create shapes such as:
+- Shapes: Easily create shapes such as:
 Triangle
 Square
 Line
 Oval
 Rectangle
 
-Variable Thickness: Increase or decrease the thickness of the pencil and marker for finer details or bold strokes.
+- Variable Thickness: Increase or decrease the thickness of the pencil and marker for finer details or bold strokes.
 
-Color Picker: Choose your desired pencil color from a palette to enhance your drawings.
+- Color Picker: Choose your desired pencil color from a palette to enhance your drawings.
 
-Canvas Download: Save your canvas by downloading it as an image when your masterpiece is complete.
+- Canvas Download: Save your canvas by downloading it as an image when your masterpiece is complete.
 
 
 🛠️ Technologies Used
@@ -55,9 +55,11 @@ Clone the repository:
 - Download: Once you’re done, simply click the download button to save your canvas.
 
 🤝 Contribution
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 📝 License
+
 This project is licensed under the MIT License.
 
 Enjoy your creativity with SketchFlow! 🎨✨
